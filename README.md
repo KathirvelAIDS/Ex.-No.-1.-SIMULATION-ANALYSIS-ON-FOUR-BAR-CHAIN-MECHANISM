@@ -55,8 +55,8 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+### Name: KATHIRVEL.A
+### Register Number: 212221230047
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
