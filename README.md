@@ -55,6 +55,14 @@
 ## Output:
 
 
+
+
+![image](https://github.com/KathirvelAIDS/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/94911373/127dd3e0-782a-4ef5-acf7-687a0dfe6213)
+
+
+
+
+
 ### Name: KATHIRVEL.A
 ### Register Number: 212221230047
 
